@@ -1,0 +1,67 @@
+components:
+  public-header:
+    title: Noonde
+    sign-up: Sign-up
+    login: Login
+    about: About me
+
+pages:
+  index:
+    search-keyword: Area · Station · Keyword
+    from-day: From Day
+    start-time: Start Time
+    end-day: End Day
+    end-time: End Time
+    number-of-guest: Guests
+    search-button: Search
+  search:
+     search-keyword: Area · Station · Keyword
+     from-day: From Day
+     start-time: Start Time
+     end-day: End Day
+     end-time: End Time
+     number-of-guest: Guests
+     search-button: Search
+     review: レビュー
+     review-one-star: Ok
+     review-two-star: Fair
+     review-three-star: Good
+     review-four-star: Very good
+     review-five-star: Excellent
+     purpose-of-use: Purpose of Use
+     party: Party
+
+  auth:
+    sign:
+      sign-title: Sign Up
+      name: Name
+      email: User name
+      password: Password
+      confirm-password: Confirm password
+      birthday: Birthday
+      birthday-of-entry: Please select the date of birth
+      user-image-upload: Upload the image
+      but-sign: Log in　
+      inpute-name-form: Please enter the correct user name
+      validate-name-form: The name can not be less than 2 digits
+      input-email-form: Please enter email
+      validate-email-form: Please enter the correct user email
+      input-password-form: Please enter password
+      validate-password-form: The password can not be less than 6 digits
+      different-of-password: Different of password
+      input-birthday-form: Please select your birthday
+      change-profile-image: Click on the photo to change the picture
+      remember-me: Remember me
+      set-drag-verify-text: Swiping to the right side
+      set-drag-verify-success-text: Success
+
+    login:
+      login-title: Login Form
+      email: User name
+      password: Password
+      but-login: Log in　
+      validate-user-form: Please enter the correct user name
+      validate-password-form: The password can not be less than 6 digits
+      remember-me: Remember me
+
+

@@ -1,0 +1,227 @@
+{
+  "id": 1,
+  "platform": "spacemarket",
+  "name": "★OPEN価格★【渋谷・代々木公園】BBQパーティー・ペット可・大型調理台・映画鑑賞会・各種パーティー・セミナー対応",
+  "description": "【概要】 \n2018にリノベーションした物件となります。 緑溢れるテラスとナチュラルなリビング。ペット可／BBQマシンあり／プロジェクター&スクリーン／ホワイトボード／各種パーティー、セミナーなど多目的にご利用下さい。\n\n※本スペースはオーナが普段居住しており、レンタル中は別室に滞在しておりますのでご留意願います。\n\n【アクセス】代々木公園駅から徒歩2〜3分！アクセス抜群です！\n【利用用途】完全個室、ラウンジ＆テラスで幅広くご利用いただけます。\n【収容人数】最大20名収容可能\n【利用可能時間】\n平日：9:00〜22:00\n休祝日：9:00〜22:00\n\n【主なご利用用途】\nパーティー・BBQ・料理教室\nプライベートセミナー、ワークショップ・会議\n映画鑑賞会・ペット交流会\n\n【周辺情報】\nコンビニ）徒歩3分\nスーパーマーケット・成城石井・肉のハナマサ）徒歩3分\n100円ショップ）徒歩2分",
+  "amenities": [
+    "tables",
+    "whiteboard",
+    "chairs",
+    "projector",
+    "wifi",
+    "air_conditioner",
+    "power_equipment",
+    "drinking",
+    "toilet",
+    "market",
+    "restaurant",
+    "child",
+    "public_transportation"
+  ],
+  "reservation_list": [
+    {
+      "platform": "spacemarket",
+      "price": "¥3439"
+    }
+  ],
+  "lat": "35.6679261",
+  "lng": "139.6893906",
+  "total_rate": 4.5,
+  "capacity": 15,
+  "prefecture": "東京都",
+  "ward": "港区",
+  "price_range": "￥1,000 ~ ￥2,000 / 時間",
+  "thumbnails": [
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/380936/image.jpg",
+      "description": "緑溢れるテラスとナチュラルなリビング。ペット可。BBQマシンあり。パーティー、各種セミナーなど多目的にご利用下さい。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382887/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "ホームパーティーは10〜15人程が丁度いいと思います。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/388326/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "ペット可です（リビング&テラス）"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382893/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "プロジェクターとスクリーンあり。スクリーンの場所は変えられます。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382895/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "各種食器類あり。ワイングラスは計16脚あります。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382899/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "ホワイトボードあり。小規模なセミナーやワークショップ、会議等にもご利用いただけます。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382903/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "日差しのいいバルコニーガーデン。フォトブースとしても人気があります。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382904/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "BBQ可能。各種道具貸し出し致します。肉のハナマサ徒歩3分で買い出しもラクラクです。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382913/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "バルコニーガーデンは着座で5人程座れます。\nプライベートなBBQをお楽しみいただけます。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382912/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "調光可能な間接照明でミニシアター風にもできます。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382905/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": "調理台あり。料理教室としての利用もできます。"
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382906/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": ""
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382907/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": ""
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/382908/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": ""
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/387742/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": ""
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/387743/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": ""
+    },
+    {
+      "url": "https://cdnspacemarket.com/uploads/attachments/387744/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp",
+      "description": ""
+    }
+  ],
+  "reviews": [
+    {
+      "id_on_platform": "listingID:35439,usersID:99921",
+      "user_id_on_platform": "99921",
+      "listing_id_on_platform": "35439",
+      "platform": "spacemarket",
+      "description": "起業を控えた友人と、動画撮影の練習会をしました。壁の色もよく、照明も問題なく、とてもきれいに撮影できました。\r\n解錠、施錠がオンラインだったので、鍵の開け閉めの手間がなく、とても良かったです。\r\n機会があれば、また利用したいです。",
+      "user_name": " まるやま のりこ",
+      "review_total_rate": 3,
+      "add_like": 0,
+      "user_avatar_url": "https://cdnspacemarket.com/images/api/default_user.png"
+    },
+    {
+      "id_on_platform": "listingID:9699,usersID:98929",
+      "user_id_on_platform": "98929",
+      "listing_id_on_platform": "9699",
+      "platform": "spacemarket",
+      "description": "とても使いやすいスペースでした。\r\n\r\n強いて言えば、水道の水圧が低すぎて少し使いにくかったのと、土足禁止の割には床が汚くて裸足だと足が真っ黒になってしまう点が気になりました。\r\n\r\nまた使わせて頂く事もあると思います。\r\n\r\nありがとうございました。",
+      "review_total_rate": 5,
+      "add_like": 1,
+      "user_name": "Kaimu Maeta",
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/98929/2497ca379200759c3695853363bd4b4e.jpg"
+    },
+    {
+      "id_on_platform": "listingID:43339,usersID:97974",
+      "user_id_on_platform": "97974",
+      "listing_id_on_platform": "43339",
+      "platform": "spacemarket",
+      "description": "とても綺麗で使いやすいお部屋でした。\n駅からもとても近くて上野で使うならこの部屋です！\nありがとうございました。",
+      "user_name": "宮崎 章広",
+      "review_total_rate": 4.4,
+      "add_like": 2,
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/97974/1a1e853dcb6cd78b74c4bde89febbba8.jpeg"
+    },
+    {
+      "id_on_platform": "listingID:36446,usersID:97228",
+      "user_id_on_platform": "97228",
+      "listing_id_on_platform": "36446",
+      "platform": "spacemarket",
+      "description": "迅速に対応して頂けたため、大変助かりました。\r\nありがとうございました。",
+      "user_name": "大坪 可林",
+      "review_total_rate": 4.3,
+      "add_like": 1,
+      "user_avatar_url": "https://cdnspacemarket.com/images/api/default_user.png"
+    },
+    {
+      "id_on_platform": "listingID:9699,usersID:94688",
+      "user_id_on_platform": "94688",
+      "listing_id_on_platform": "9699",
+      "platform": "spacemarket",
+      "description": "急な予約にもかかわらず、ご丁寧に対応いただき \nました。\n\n\nもともとは、知人の紹介で\n素敵なオーナー様とのことで、使わせていただいたのですが、本当によくしていただき、感謝しております。\n\n\n窓も広く光も充分に入るため、\n明るい印象で、女性にもオススメです！\n\n\nまた利用させていただきたいです！\n\n\n",
+      "user_name": "中村 可奈子",
+      "review_total_rate": 4.0,
+      "add_like": 0,
+      "user_avatar_url": "https://cdnspacemarket.com/images/api/default_user.png"
+    },
+    {
+      "id_on_platform": "listingID:43339,usersID:92012",
+      "user_id_on_platform": "92012",
+      "listing_id_on_platform": "43339",
+      "platform": "spacemarket",
+      "review_total_rate": 4.9,
+      "add_like": 2,
+      "description": "きれいで使いやすかったです。",
+      "user_name": "Ryoto Hiji",
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/92012/99d01611802652603ae573c02afb4d8e.jpg"
+    },
+    {
+      "id_on_platform": "listingID:42101,usersID:89017",
+      "user_id_on_platform": "89017",
+      "listing_id_on_platform": "42101",
+      "platform": "spacemarket",
+      "description": "この度は利用させて頂きまして、ありがとうございました。\n2.3人の打ち合わせにピッタリのスペースでした。\nまた利用したいと思います。\n",
+      "user_name": "Futaba UN",
+      "review_total_rate": 4.1,
+      "add_like": 99,
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/89017/9244b6caf244537f02bfacc8c8ed0b10.jpg"
+    },
+    {
+      "id_on_platform": "listingID:35288,usersID:8893",
+      "user_id_on_platform": "8893",
+      "listing_id_on_platform": "35288",
+      "platform": "spacemarket",
+      "description": "参加者15名程度のセミナー会場として利用しました。\n古いマンションの一室なのでトイレがユニットバスなのは仕方ないと思いますが、洗面台の蛇口が壊れていて、常に浴槽に水が流れていました。排水がうまく流れていないため、誰かの風呂上がりかと言うくらいまで水が張ってある状態です。参加者も驚いていました。\nさらにひどいことに、ダブルブッキングが起こっていたようで、セミナー中に何人もの人が別のイベントの会場だと勘違いして入ってきてしまうという、あり得ない状況。\n低価格とは言え、運営者はどういう管理をしているのか、疑問しか残りませんでした。",
+      "user_name": "Yasushi Kuwano",
+      "review_total_rate": 4.6,
+      "add_like": 0,
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/8893/87d863d3d79071f3573fbb4ea7d19776.jpg"
+    },
+    {
+      "id_on_platform": "listingID:42101,usersID:73440",
+      "user_id_on_platform": "73440",
+      "listing_id_on_platform": "42101",
+      "platform": "spacemarket",
+      "description": "新宿駅近くにも関わらず、価格が抑えられていて、部屋もきれいだったので、とてもコスパがいいなと感じた。ただ、部屋に入ろうとしたところ（前時間は空き時間のはずが、）中から女性がバタバタと出てきて、もしかして一度利用したことがあるひと（鍵の暗証番号を知っている人？）が、無断で利用していたりするのかなと少し不安になった。",
+      "user_name": "Aoi Katsura",
+      "review_total_rate": 4.5,
+      "add_like": 2,
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/73440/7c70bed6a5300c3e318cf732a7579df7.jpg"
+    },
+    {
+      "id_on_platform": "listingID:42101,usersID:72280",
+      "user_id_on_platform": "72280",
+      "listing_id_on_platform": "42101",
+      "platform": "spacemarket",
+      "description": "場所は新宿駅から近く、料金も非常にリーズナブルで良かったですが、部屋のトイレの電気がつかなかったり、エアコンのルーバーが動かないなどあり、若干残念でした。",
+      "user_name": "村石 隆",
+      "review_total_rate": 4.2,
+      "add_like": 1,
+      "user_avatar_url": "https://cdnspacemarket.com/images/api/default_user.png"
+    },
+    {
+      "id_on_platform": "listingID:35429,usersID:69746",
+      "user_id_on_platform": "69746",
+      "listing_id_on_platform": "35429",
+      "platform": "spacemarket",
+      "description": "駅から少し歩きますが綺麗なお部屋で快適に過ごせました。",
+      "review_total_rate": 4.2,
+      "add_like": 4,
+      "user_name": "Taku Miyoshi",
+      "user_avatar_url": "https://cdnspacemarket.com/uploads/users/69746/72dc399e6a930f7dbb440c92a8869335.jpg"
+    }
+  ]
+}

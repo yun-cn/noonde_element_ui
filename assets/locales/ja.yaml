@@ -1,0 +1,277 @@
+components:
+  public-header:
+    title: Noonde
+    sign-up: 会員登録
+    login: ログイン
+    about: About Me
+  user-header:
+    setting: 設定
+    favorite-lists: お気に入り
+    reset-password: パスワード設定
+    logout: ログアウト
+
+
+pages:
+  index:
+    label-keywords: エリア・駅
+    search-keywords: エリア・駅・キーワード
+    label-from: 利用開始
+    from-day: 利用開始日
+    start-time: 利用開始時刻
+    end-day: 利用終了日
+    end-time: 利用終了時刻
+    number-of-guest: 人数
+    search-button: 検索
+
+  auth:
+    sign:
+      sign-title: 会員登録
+      name: ニックネーム
+      email: メール
+      password: パスワード
+      confirm-password: 確認パスワード
+      birthday: 誕生日
+      birthday-of-entry: 誕生日を選択
+      user-image-upload: 画像をドロップ
+      but-sign: 登録
+      input-name-form: ニックネームを入力してください
+      validate-name-form: ニックネームは2桁以上にする必要があります
+      input-email-form: メールを入力してください
+      validate-email-form: 正しいメールを入力してください
+      input-password-form: パスワードを入力してください
+      validate-password-form: パスワードは6桁以上16桁以下にする必要があります
+      different-of-password: 間違いパスワードを入力しました
+      input-birthday-form: 誕生日を選択してください
+      upload-image: 画像をドロップ
+      change-profile-image: こ画像をクリック or 画像をドロップ
+      remember-me: ログイン情報を記録する
+      set-drag-verify-text: 右にスワイプ
+      set-drag-verify-success-text: 完成
+
+    login:
+      login-title: ログイン画面
+      email: メール
+      password: パスワード
+      but-login: 登録
+      input-email-form: メールを入力してください
+      validate-email-form: 正しいメールを入力してください
+      input-password-form: パスワードを入力してください
+      validate-password-form: パスワードは6桁以上16桁以下にする必要があります
+      remember-me: ログイン情報を記録する
+      forgot-password: メールアドレスを忘れた場合
+
+    forgot-password:
+      forgot-password-title: メールアドレスを探す
+      email: メール
+      code: 認証コード
+      input-email-form: メールを入力してください
+      validate-email-form: 正しいメールを入力してください
+      input-code-form: コードを入力してください
+      validate-code-form: コードは1桁以上20桁以下にする必要があります
+      send-code: コードを送信
+      reissue-after-minutes: 秒後再発行
+      resend: 再送信
+      new-password: 新パスワード
+      new-confirm-password: 確認パスワード
+      validate-password-form: パスワードは6桁以上16桁以下にする必要があります
+      input-password-form: パスワードを入力してください
+      different-of-password: 間違いパスワードを入力しました
+      btn-update-pass: パスワード更新
+      error-email-empty: そのメールアドレスは存在されません
+      please-send-code: コードを送信してください
+      exp-created-code: 認証コードの有効期限が切りますので、もう一度コードを送信のボタンをクリックしてください
+
+    setting:
+      name: ニックネーム
+      email: メール
+      password: パスワード
+      confirm-password: 確認パスワード
+      birthday: 誕生日
+      birthday-of-entry: 誕生日を選択
+      profile-image: プロフィール画像
+      self-introduction: 自己紹介
+      sex: 性別
+      sex-entry: 性別を選択
+      option-man: 男性
+      option-women: 女性
+      option-other: その他
+      travel-tag: 旅行スタイル タグ
+      select-travel-tag-three: 会員プロフィール ページに含めるタグを 3 つ以上選択してください
+      travel-tags:
+        backpacker: バックパッカー
+        cheap-travel: 格安旅行
+        shopping-fanatic: ショッピング好き
+        foodie: グルメ
+        nature-lover: 自然愛好家
+        thrill-seeker  : スリル好き
+        urban-explorer: 都会の探索好き
+        peace-and-quiet-seeker: 静かに過ごしたい
+        sixty-over-than-traveler: 60歳以上の旅行者
+        eco-tourist: エコ ツーリスト
+        vegetarian: ベジタリアン
+        art-and-architecture-lover:  芸術や建築に触れた
+        beach-goer: ビーチ マニア
+        like-a-local: 現地を味わいたい
+        luxury-traveler: 豪華旅行
+        history-buff: 歴史好き
+        trendsetter: トレンドセッター
+        nightlife-seeker: ナイトライフシーカー
+        family-vacationer: 家族旅行者
+      before-save-message: 変更内容を確定するには [保存] をクリックしてください
+      save-btn: 保存
+      cancel-btn: キャンセル
+      input-name-form: ニックネームを入力してください
+      validate-name-form: ニックネームは2桁以上にする必要があります
+      input-email-form: メールを入力してください
+      validate-email-form: 正しいメールを入力してください
+      input-sex-form: 性別を選択してください
+      input-birthday-form: 誕生日を選択してください
+      input-description-form: 自己紹介を入力してください
+
+  space:
+    index:
+      label-keywords: エリア・駅
+      search-keywords: エリア・駅・キーワード
+      label-from: 利用開始
+      from-day: 利用開始日
+      start-time: 利用開始時刻
+      end-day: 利用終了日
+      end-time: 利用終了時刻
+      number-of-guest: 人数
+      search-button: 検索
+      review: レビュー
+      review-one-star: 問題ない
+      review-two-star: 普通
+      review-three-star: 良い
+      review-four-star: 満足
+      review-five-star: 大満足
+      purpose-of-use: 利用目的
+      event-type:
+        party: パーティー
+        class: 会議・研修
+        photo-shoot: 写真撮影
+        film-shoot: ロケ撮影
+        event: イベント
+        performance: 演奏・パフォーマンス
+        studio: 個展・展示会
+        sports: スポーツ・フィットネス
+        office: オフィス
+        wedding: 結婚式
+        stay-business: 出張・ビジネス
+        stay-party: パーティー
+        stay-trip: 旅行
+        stay-group: 合宿・グループ
+        stay-vacation: バケーションレンタル
+        other: その他
+      amenity: アメニティ
+      amenity-type:
+        tables: テーブル
+        chairs: 椅子
+        projector: プロジェクター
+        parking: 駐車場
+        wifi: Wifi
+        whiteboard: ホワイトボード
+        printer: プリンター
+        kitchen_facilities: キッチン設備
+        kitchen_equipment: 調理機材
+        tv: テレビ
+        lockers: ロッカー
+        catering_services: ケータリング
+        bar: バー
+        sound_system: 音響設備
+        mirrors: ミラー
+        showers: シャワー
+        changing_room: 更衣室
+        photography_equipment: 写真撮影機材
+        film_equipment: 動画撮影機材
+        public_transportation: 公共交通機関
+        toilet: トイレ
+        refrigerator: 冷蔵庫
+        power_equipment: 電源
+        air_conditioner: 冷暖房
+        restaurant: 周辺に飲食店
+        market: スーパー/コンビニ
+        accessibility: バリアフリー
+        drinking: 飲酒可
+        pet: ペット可
+        child: 子連れ可
+        smoking: 喫煙可
+      sorts-type: 並び順
+      sorts:
+        price-asc:  価額安い順
+        price-desc: 価額高い順
+      people-font: 人
+
+    show:
+      show-image-btn: 写真を見る
+      about-space: スペースについて
+      access-info: 　アクセス
+      all-online-price: 予約サイト一覧
+      amenity-list: アメニティ
+      review-list: レビュー
+      white-review: 口コミ
+      space-save: 保存
+      people-font: 人
+      title-abs:
+          space: レンタル
+          reservation-site: 予約サイト
+          access: アクセス
+          amenity: アメニティ
+          reviews: レビュー
+      review-count-font: 件
+      platform: プラットフォーム
+      price: 値段
+      details: 詳細
+      user-review-count: 件のユーザーレビュー
+      point-font: 点
+      review-total: 総合評価
+      review-locale: ロケーション
+      review-server: サービス
+      review-cleaning: 清潔さ
+      review-comfort: 快適さ
+      review-facility: 施設
+      review-cost-per: コスパ
+      review-white-btn: 口コミを投稿する
+      review-description-text: コロミ本文
+      review-one: とても悪い
+      review-two: 失望
+      review-three: 普通
+      review-four: 満足
+      review-five: 大満足
+      review-update-review-btn: 同意して投稿
+      total_rate_validate_message: スターを選択してください
+      description_validate_message: コロミ本文を入力してください
+      description_min_message: コロミ本文は３文字以上を入力してください
+      favorite-lists:
+        add-space-tags: お気に入りスペース
+        edit-tag: 編集
+        delete-tag: 削除
+        cancel-tag: キャンセル
+        add-tag: タグを追加
+        complete-tag: 完了
+      send-response-btn: 送信
+      reply-font: 返信
+
+  favorite:
+    index:
+      add-space-tags: お気に入りスペース
+      edit-tag: 編集
+      delete-tag: 削除
+      cancel-tag: キャンセル
+      title: お気に入り
+      space-list: お気に入りスペース
+      add-tag: タグを追加
+      complete-tag: 完了
+      add-btn: 追加
+      save-btn: 保存
+      hai-button: はい
+      exist-error-title: タグを存在しています
+      input-tag-error: タグは1文字以上15文字以下を入力してください
+      close-message: 本当に閉める
+      presentation-title: 提示
+      delete-message: 削除すれば、復元ができない
+      cancel-btn: キャンセル
+      delete-btn: 削除
+    show:
+      tag-space-font: 件のスペース
+      people-font: 人

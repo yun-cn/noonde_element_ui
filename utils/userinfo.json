@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "name": "zhang yunling",
+  "email": "yun313350095@gmail.com",
+  "sex": "2",
+  "birthday": "2006-08-15",
+  "avatar": "http://i.pravatar.cc/300?img=2",
+  "description": "あいうえお　カキクケコ　化さえjだ",
+  "travel_tags": ["backpacker", "thrifty traveler", "peace and quiet seeker"],
+  "favorite_space_list": [
+    {
+      "tag": "favelist",
+      "space_ids": [2131, 123123, 123, 123123123, 1231231231, 12312313],
+      "thumbnails": "https://cdnspacemarket.com/uploads/attachments/380936/image.jpg"
+    },
+    {
+      "tag": "渋谷",
+      "space_ids": [12, 1241, 123131],
+      "thumbnails": "https://cdnspacemarket.com/uploads/attachments/382887/image.jpg?fit=crop&width=490&height=490&bg-color=9c9c9c&format=webp"
+    },
+    {
+      "tag": "渋谷駅asdfhaslfjhasjdhfkaj",
+      "space_ids": [12, 1241, 123131],
+      "thumbnails": "https://cdnspacemarket.com/uploads/users/69746/72dc399e6a930f7dbb440c92a8869335.jpg"
+    },
+    {
+      "tag": "渋谷駅asdfhaskaj",
+      "space_ids": [],
+      "thumbnails": ""
+    }
+  ]
+}
